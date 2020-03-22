@@ -1,0 +1,30 @@
+subject_brand_id = select subject_brand_id
+                                            WHERE sb.eurotax_id = two (modmakcd)
+name = three (modname) --(modname2)
+detailed_name = four (modnamegrp1)
+year_from = six (modbegin)
+year_to = seven (modend)
+eurotax_id = one (modnatcode)
+creation_date = now()
+update_date = now()
+
+
+five (modnamegrp2) --109KM
+
+
+
+
+
+subject_model_id
+                    sm WHERE sm.eurotax_id = six
+name = one
+year_from = two
+year_to = three
+eurotax_type_id = four
+eurotax_id = five
+subject_type_id = 224
+creation_date = now()
+update_date = now()
+engine_power = seven
+engine_capacity = nine
+number_of_doors = eight
